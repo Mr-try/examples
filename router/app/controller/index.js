@@ -1,7 +1,5 @@
 'use strict';
 
-const path = require('path');
-const fs = require('fs');
 const Controller = require('egg').Controller;
 
 class IndexController extends Controller {
